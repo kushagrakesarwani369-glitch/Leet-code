@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0009-palindrome-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
