@@ -16,4 +16,8 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0344-reverse-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 <!---LeetCode Topics End-->
