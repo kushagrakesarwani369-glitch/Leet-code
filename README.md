@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0009-palindrome-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0509-fibonacci-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0344-reverse-string/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +35,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0509-fibonacci-number/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
