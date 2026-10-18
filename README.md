@@ -16,12 +16,14 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0344-reverse-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0014-longest-common-prefix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -39,4 +41,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
