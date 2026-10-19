@@ -21,6 +21,7 @@
 | [0205-isomorphic-strings](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0344-reverse-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Array
@@ -53,6 +54,7 @@
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
