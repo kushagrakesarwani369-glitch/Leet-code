@@ -34,6 +34,7 @@ public:
         }
         sort(v.begin(),v.end());
         string result = "";
+        
         for(int l = size(v)-1 ; l>=0;l--){
             for(int r = 0 ; r < v[l].first;r++){
                 result += v[l].second;
