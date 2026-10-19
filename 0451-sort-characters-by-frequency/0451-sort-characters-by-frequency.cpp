@@ -36,10 +36,10 @@ public:
         string result;
         
         for(int l = size(v)-1 ; l>=0;l--){
-            result += string((v[l].first),v[l].second);
-            /*for(int r = 0 ; r < v[l].first;r++){
+            //result += string((v[l].first),v[l].second);
+            for(int r = 0 ; r < v[l].first;r++){
                 result += v[l].second;
-            }*/
+            }
 
         }return result;
     }
