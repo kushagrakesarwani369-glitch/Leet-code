@@ -6,12 +6,14 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -28,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0014-longest-common-prefix/) | Easy |
+| [0189-rotate-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0189-rotate-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Dynamic Programming
