@@ -12,6 +12,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0283-move-zeroes/) | Easy |
@@ -31,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0485-max-consecutive-ones/) | Easy |
