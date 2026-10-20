@@ -7,6 +7,5 @@ public:
         reverse(p,p+k);
         reverse(p+k,p + nums.size());
         reverse(p,p+nums.size());
-        //return nums;
     }
 };
