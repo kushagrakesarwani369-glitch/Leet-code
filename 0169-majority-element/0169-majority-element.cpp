@@ -6,12 +6,12 @@ public:
         for(int i = 0 ; i < nums.size() -1; i++){
             if(nums[i] == nums[i+1]){
                 count++;
+                if(f<count){
+                    f = count;
+                    elem = nums[i];
+                }
             }
-            if(f<count){
-                f = count;
-                elem = nums[i];
-            }
-            if(nums[i] != nums[i+1])
+            else
                 count = 1;
         }
         return elem;        
