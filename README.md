@@ -40,6 +40,7 @@
 | [0283-move-zeroes](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1929-concatenation-of-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1929-concatenation-of-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,4 +109,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
