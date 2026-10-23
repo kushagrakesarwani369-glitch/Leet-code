@@ -1,13 +1,23 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> ans(n);
-        int p = 0, q = 1;
-        for (int x : nums) {
-            if (x > 0) { ans[p] = x; p += 2; }
-            else       { ans[q] = x; q += 2; }
+        vector<pair<int,int>>v(nums.size()/2,{0,0});
+        int j = 0 , k = 0;
+        for(int i = 0 ; i < nums.size();i++){
+            if(nums[i] > 0){
+                v[j].first = nums[i];
+                j++;
+            }
+            else{
+                v[k].second = nums[i];
+                k++;
+            }
         }
-        return ans;
+        for(int i = 0 ; i < nums.size()/2;i++){
+            nums[2*i] = v[i].first;
+            nums[2*i + 1] = v[i].second;
+        }
+        return nums;
+        
     }
 };
