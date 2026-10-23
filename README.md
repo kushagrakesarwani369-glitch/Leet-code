@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0054-spiral-matrix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0054-spiral-matrix/) | Medium |
 | [0169-majority-element](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0268-missing-number/) | Easy |
@@ -114,6 +115,11 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
