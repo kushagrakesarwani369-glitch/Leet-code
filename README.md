@@ -38,6 +38,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0169-majority-element](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0169-majority-element/) | Easy |
@@ -73,6 +74,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0242-valid-anagram/) | Easy |
@@ -129,4 +131,5 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
