@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0283-move-zeroes/) | Easy |
@@ -40,6 +41,7 @@
 | [0048-rotate-image](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0169-majority-element](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0169-majority-element/) | Easy |
@@ -89,6 +91,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0268-missing-number/) | Easy |
@@ -134,4 +137,12 @@
 | [0048-rotate-image](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
