@@ -34,6 +34,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0048-rotate-image/) | Medium |
@@ -74,6 +75,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0205-isomorphic-strings/) | Easy |
