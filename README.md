@@ -46,6 +46,7 @@
 | [0119-pascals-triangle-ii](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0169-majority-element](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0189-rotate-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -81,6 +82,7 @@
 | [0073-set-matrix-zeroes](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0205-isomorphic-strings/) | Easy |
+| [0229-majority-element-ii](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -93,6 +95,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -108,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -125,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/kushagrakesarwani369-glitch/Leet-code/tree/main/0229-majority-element-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
