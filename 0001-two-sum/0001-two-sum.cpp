@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<int>v;
         vector<int>k=nums;
         sort(nums.begin(),nums.end());
         int *a = &nums[0],*b=&nums[nums.size()-1],p,q,f=0;
@@ -19,9 +18,7 @@ public:
                 break;
             }
         }  
-        v.push_back(p);
-        v.push_back(q);
-        return v;
+        return {p,q};
     }
     
 };
